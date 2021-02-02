@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Tanzim Saqib. 👋
+
+I help you to create an Engineering Brain, exploring the principles, strategies and tools necessary for it. I enjoy exploring the principles, strategies and tools to create an Engineering Brain in the organization. 
+
+💬 Check my blog: https://tanzimsaqib.com
+💼 Check my LinkedIn: https://www.linkedin.com/in/tanzimsaqib/
+
 
 <!--
 **tsaqib/tsaqib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
