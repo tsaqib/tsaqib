@@ -1,6 +1,6 @@
 ### Hi, I'm Tanzim Saqib. 👋
 
-I help you to create an Engineering Brain, exploring the principles, strategies and tools necessary for it. I enjoy exploring the principles, strategies and tools to create an Engineering Brain in the organization. 
+I help you to create an Engineering Brain, exploring the principles, strategies and tools necessary for it.
 
 - 💬 Check my blog: https://tanzimsaqib.com
 - 💼 Check my LinkedIn: https://www.linkedin.com/in/tanzimsaqib/
