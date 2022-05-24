@@ -1,9 +1,17 @@
 ### Hi, I'm Tanzim Saqib. 👋
 
-I help you to create an Engineering Brain, exploring the principles, strategies and tools necessary for it.
+I am a chief engineering futurist with mastery in Fintech, startups & chaotic engineering puzzles.
 
-- 💬 Check my blog: https://tanzimsaqib.com
-- 💼 Check my LinkedIn: https://www.linkedin.com/in/tanzimsaqib/
+What I do daily: strategic innovation, large-scale architectures, category-defining products and people-first culture. Sensemaking of an incredibly high stake and complex business problem.
+
+🔭 I’m currently building "Payments" for $20B GMV at Clearco.
+
+### Open to network:
+
+- [💬 My Substack blog](https://saqib.substack.com/)
+- [📫 My LinkedIn newsletter](https://tinyurl.com/tslin)
+- [💼 My LinkedIn profile](https://www.linkedin.com/in/tanzimsaqib/)
+- [🐦 My Twitter profile](https://twitter.com/TanzimSaqib)
 
 
 <!--
