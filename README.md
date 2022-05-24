@@ -8,9 +8,9 @@ What I do daily: strategic innovation, large-scale architectures, category-defin
 
 ### Open to network:
 
-- [💬 My Substack blog](https://saqib.substack.com/)
-- [📫 My LinkedIn newsletter](https://tinyurl.com/tslin)
-- [💼 My LinkedIn profile](https://www.linkedin.com/in/tanzimsaqib/)
+- [💬 Subscribe to newsletter](https://saqib.substack.com/)
+- [💼 My Website](https://tanzimsaqib.com)
+- [💼 My LinkedIn](https://www.linkedin.com/in/tanzimsaqib/)
 - [🐦 My Twitter profile](https://twitter.com/TanzimSaqib)
 
 
