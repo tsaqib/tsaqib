@@ -4,7 +4,7 @@ I am a chief engineering futurist with mastery in Fintech, startups & chaotic en
 
 What I do daily: strategic innovation, large-scale architectures, category-defining products and people-first culture. Sensemaking of an incredibly high stake and complex business problem.
 
-🔭 I’m currently building "Payments" for $20B GMV at Clearco.
+🔭 I’m currently building "Payments" for $3.6B at Clearco.
 
 ### Open to network:
 
