@@ -1,6 +1,6 @@
 ### Hi, I'm Tanzim Saqib. 👋
 
-I am a chief engineering futurist with mastery in Fintech, startups & chaotic engineering puzzles.
+I am an engineering futurist with mastery in Fintech, startups & chaotic engineering puzzles.
 
 What I do daily: strategic innovation, large-scale architectures, category-defining products and people-first culture. Sensemaking of an incredibly high stake and complex business problem.
 
